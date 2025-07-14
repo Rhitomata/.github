@@ -1,7 +1,7 @@
 # Rhitomata
 A small indie (currently) non-profit organization founded by two individuals:
 - [Rhitomaic](https://github.com/Rhitomaic)
-- [Sylva]([https://github.com/Sylva](https://github.com/orgs/Rhitomata/people/glx-slv))
+- [Sylva](https://github.com/orgs/Rhitomata/people/glx-slv)
 
 Our main product is our game with the same name as our organization name:
 
